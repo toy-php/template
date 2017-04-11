@@ -1,6 +1,6 @@
 <?php
 
-namespace Core\Template;
+namespace Template;
 
 use Template\Interfaces\View as ViewInterface;
 use Template\Interfaces\ViewModel as ViewModelInterface;
